@@ -16,11 +16,11 @@
   line-height: 1.33;
   max-width: 40ch;
   margin-bottom: 60px;
-  color: #525252;
+  color: #dcdcdc;
 }
 
 .experiencia-texto strong {
-  color: #141414;
+  color: #009104;
 }
 
 .empresa {
@@ -39,7 +39,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#70da1c, #ccf235);
   position: absolute;
   top: 20px;
   left: -4px;
@@ -51,7 +51,7 @@
   left: -100px;
   text-align: right;
   width: 80px;
-  color: #525252;
+  color: #dcdcdc;
   font-size: 0.875rem;
 }
 
@@ -59,6 +59,7 @@
   font-size: 1.125rem;
   line-height: 1.1;
   font-weight: bold;
+  color: #141414;
 }
 
 .empresa-texto {
@@ -78,7 +79,7 @@
   font-size: 0.875rem;
   line-height: 1.4;
   border-radius: 4px;
-  background: #fff;
+  background: #141414;
   padding: 5px 10px;
 }
 
@@ -88,7 +89,7 @@
     gap: 40px;
   }
   .experiencia .subtitulo {
-    color: #141414;
+    color: #009104;
   }
   .empresa-ano {
     position: initial;
